@@ -14,3 +14,4 @@ is intended to be a compromise between processing speed, outline accuracy compar
 ***Note: This is the first iteration of this tool, and is in the test/evaluation phase.***
 
 ***Contact Anthony Klemm anthony.r.klemm@noaa.gov for any questions regarding this tool*** 
+![image (3)](https://github.com/anthonyklemm/Raster_Outliner/assets/76973843/fefc4fc1-de30-42c3-b85b-fc6f157149e4)
